@@ -44,4 +44,8 @@ Thanks you if you found some solutions, send it in the Github pull requests.
 - Hostname
 - IP city
 
+<br>
+
+![Token](https://cdn.discordapp.com/attachments/1096766422862012529/1125130352994828420/Skarmbild_2023-07-02_200634.png)<br>
+
 > DD03-GRABBER
